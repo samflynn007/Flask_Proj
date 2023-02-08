@@ -1,6 +1,6 @@
 # neurolab-flask
 
-![image](https://user-images.githubusercontent.com/115451707/196919992-edcfea8b-e3f6-4f35-9398-43be66b5622d.png)
+![image](https://miro.medium.com/max/1400/1*ZU1EQ7tYeQNQlhOhyonHFA.webp)
 
 
 To run flask application 
